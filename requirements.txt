@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+celery
+requests
+SQLAlchemy
+pymysql
